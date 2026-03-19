@@ -1,10 +1,7 @@
 # Lending Club Loan Interest Rate Prediction
 
 ## Mission
-To predict the interest rate assigned to a loan applicant based on their
-financial profile and loan characteristics — helping lenders make
-data-driven, fair pricing decisions and helping borrowers understand what
-factors drive their assigned rate.
+My mission is about Job creation and entrepreneurship. In this specific task, I focused on the finance sector, especially determining how loan interests might affect the borrowers in the success of their related business needs, precisely if the latter interests might not burden client's ventures success and on the other side if the lenders(financial institutions) are considering fairly the capacity of client's entrepreneurs in assessing the loans amount they are eligible for.
 
 ## Dataset
 **Name:** Lending Club Loan Data  
